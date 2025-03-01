@@ -1,1 +1,2 @@
 .env
+echo "venv2/Lib/site-packages" >> .gitignore
